@@ -16,6 +16,6 @@
 
 Technologies used in the project:
 
-*   JS
+
 *   Bootstrap
 *   CSS
